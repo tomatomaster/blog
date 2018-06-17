@@ -1,0 +1,50 @@
+baseURL = "https://tomatomaster.github.io/"
+languageCode = "ja-jp"
+title = "hogehoge"
+publishDir = "public"  # 公開ファイルのディレクトリ名
+theme= "hugo-classic" # 使用するテーマ名
+hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
+paginate = 10 # 一つのページに何個まで記事を載せるか。
+paginatePath = "page"
+
+[permalinks]
+	post = "/:year/:month/:day/:filename/"
+	code = "/:filename/"
+	
+[author]
+	name = "chanmitsu55"
+	email = "chanmitsu55@yahoo.co.jp"
+	
+[params.theme]
+	name = "yeti"
+  
+[params]
+	BrandImage = "/logo.png"
+	brand = "chanmitsu55 blog"
+	topline = "chanmitsu55の技術ブログ"
+	footline = "Copyright&copy; <a href='/about/'>chanmitsu55</a>"
+	showRightSidebar = true
+	highlight = "default"
+	twitter  = "chanmitsu55"
+	github   = "chanmitsu55"
+
+[[menu.main]]
+	name = "Home"
+	identifier = "home"
+	url = "/"
+	weight = -200
+	pre = "<i class='fa fa-home'></i>"
+
+[[menu.main]]
+	name = "Archives"
+	identifier = "archives"
+	url = "/post/"
+	weight = -180
+	pre = "<i class='fa fa-archive'></i>"
+
+[[menu.main]]
+	name = "About"
+	identifier = ""
+	url = "/about/"
+	weight = -100
+	pre = "<i class='fa fa-info-circle'></i>"
