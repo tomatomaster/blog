@@ -2,7 +2,3 @@
 	path = public
 	url = https://github.com/tomatomaster/tomatomaster.github.io.git
 	branch = master
-[submodule "_blog/public"]
-	path = _blog/public
-	url = https://github.com/tomatomaster/tomatomaster.github.io.git
-	branch = master
