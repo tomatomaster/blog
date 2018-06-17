@@ -1,6 +1,6 @@
 baseURL = "https://tomatomaster.github.io/"
 languageCode = "ja-jp"
-title = "第三調理室"
+title = "post"
 publishDir = "public"  # 公開ファイルのディレクトリ名
 theme= "hugo-classic" # 使用するテーマ名
 hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
