@@ -1,6 +1,6 @@
 baseURL = "https://tomatomaster.github.io/"
 languageCode = "ja-jp"
-title = "hogehoge"
+title = "第三調理室"
 publishDir = "public"  # 公開ファイルのディレクトリ名
 theme= "hugo-classic" # 使用するテーマ名
 hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
@@ -12,21 +12,21 @@ paginatePath = "page"
 	code = "/:filename/"
 	
 [author]
-	name = "chanmitsu55"
-	email = "chanmitsu55@yahoo.co.jp"
+	name = "orz"
+	email = ""
 	
 [params.theme]
 	name = "yeti"
   
 [params]
 	BrandImage = "/logo.png"
-	brand = "chanmitsu55 blog"
-	topline = "chanmitsu55の技術ブログ"
-	footline = "Copyright&copy; <a href='/about/'>chanmitsu55</a>"
+	brand = "3rd kitchen"
+	topline = "第三調理室"
+	footline = "Copyright&copy; <a href='/about/'>kitchen</a>"
 	showRightSidebar = true
 	highlight = "default"
-	twitter  = "chanmitsu55"
-	github   = "chanmitsu55"
+	twitter  = ""
+	github   = "tomatomaster"
 
 [[menu.main]]
 	name = "Home"
