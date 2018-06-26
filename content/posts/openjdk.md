@@ -19,3 +19,8 @@ Udacityの[Intro to Machine Learning](https://classroom.udacity.com/courses/ud12
 
 aiboのGPLライセンスってどうなったけ？と思い調べたらソースコード開示されてた。
 [EntertainmentRobot/EntertainmentRobot/EntertainmentRobot](http://oss.sony.net/cgi-bin/Products/Linux/search.cgi)
+
+## [あやねとあまね](http://amzn.asia/0gMztQy)
+道満晴明先生の新作
+
+すこすこ
