@@ -1,7 +1,7 @@
 ---
 title: "Csharp2"
 date: 2018-07-31T23:38:50+09:00
-draft: true
+draft: false
 ---
 
 # 2回目
