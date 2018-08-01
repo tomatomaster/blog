@@ -1,5 +1,5 @@
 ---
-title: "Udacity 1日目"
+title: "Udacity 1"
 date: 2018-06-25T22:56:23+09:00
 draft: false
 ---
