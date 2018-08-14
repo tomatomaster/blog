@@ -1,5 +1,5 @@
 ---
-title: "C#2"
+title: "C#[2]"
 date: 2018-07-31T23:38:50+09:00
 draft: false
 ---
