@@ -6,9 +6,7 @@ theme= "hugo-classic" # 使用するテーマ名
 hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
 paginate = 10 # 一つのページに何個まで記事を載せるか。
 paginatePath = "page"
-googleAnalytics = "<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="UA-123867559-1"
-
+googleAnalytics = "UA-123867559-1"
 
 [permalinks]
 	post = "/:year/:month/:day/:filename/"
